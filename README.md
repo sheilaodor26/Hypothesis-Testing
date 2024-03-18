@@ -11,3 +11,5 @@ Dependent Variable – Cholesterol Level
 Independent Variable - Application of the diet program
 
 If individuals follow the diet program properly for the pasts 6 months then their cholesterol levels will change significantly.
+
+# 	Using histogram to evaluate the dataset's normalcy
