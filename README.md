@@ -7,5 +7,7 @@ Goal of Analysis
 Previous analysis has shown that the population mean of the cholesterol level is 5.95 and the standard deviation is 0.897. The research team is trying to determine whether an individual’s cholesterol level has changed or not after applying a certain diet program properly for the past 6 months.
 # Hypothesis Statement
 Dependent Variable – Cholesterol Level
+
 Independent Variable - Application of the diet program
+
 If individuals follow the diet program properly for the pasts 6 months then their cholesterol levels will change significantly.
